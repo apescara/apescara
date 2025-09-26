@@ -13,7 +13,7 @@ MLE @ Sodimac and doing side jobs as an Cloud Engineer<br>Mainly working with GC
 <a href="https://www.credly.com/badges/914b8c45-d28c-411e-a96f-13e1f6248f35" title="Engineer Data for Predictive Modeling with BigQuery ML Skill Badge"><img src="https://images.credly.com/size/80x80/images/6160e2c1-4a95-4f47-8c5b-f2dde7bb6a67/image.png" alt="Engineer Data for Predictive Modeling with BigQuery ML Skill Badge" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/1c6c548b-23d9-4ad0-9b70-8661429cb1b2" title="Create ML Models with BigQuery ML Skill Badge"><img src="https://images.credly.com/size/80x80/images/073a27aa-c3d6-44b5-875f-906191666d70/image.png" alt="Create ML Models with BigQuery ML Skill Badge" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/5b6918af-8f80-49c2-b470-a5eff8dd8ff2" title="Prepare Data for ML APIs on Google Cloud Skill Badge"><img src="https://images.credly.com/size/80x80/images/68756311-9319-4eeb-a2b7-76defc8dd8a2/image.png" alt="Prepare Data for ML APIs on Google Cloud Skill Badge" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/4ef5d173-6311-4ed9-b04f-45ef3b17bdbd" title="Professional Data Engineer Certification"><img src="https://images.credly.com/size/80x80/images/2d613ff8-8879-430b-b2d8-925fa29785e8/image.png" alt="Professional Data Engineer Certification" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/32a311c0-7c66-41f5-8c24-ffbc7825aef7" title="Professional Data Engineer Certification"><img src="https://images.credly.com/size/80x80/images/2d613ff8-8879-430b-b2d8-925fa29785e8/image.png" alt="Professional Data Engineer Certification" width="80" height="80"></a>
 <!--END_SECTION:badges-->
 
 # 📊 GitHub Stats:
