@@ -10,6 +10,7 @@ MLE @ Sodimac and doing side jobs as an Cloud Engineer<br>Mainly working with GC
 
 # Badges
 <!--START_SECTION:badges-->
+<a href="https://www.credly.com/badges/db748ce4-e3eb-4bdb-825b-2dcda27023be" title="Professional Machine Learning Engineer Certification"><img src="https://images.credly.com/size/80x80/images/05e71e7e-92a1-4821-8530-4176b2e3c4b4/image.png" alt="Professional Machine Learning Engineer Certification" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/914b8c45-d28c-411e-a96f-13e1f6248f35" title="Engineer Data for Predictive Modeling with BigQuery ML Skill Badge"><img src="https://images.credly.com/size/80x80/images/6160e2c1-4a95-4f47-8c5b-f2dde7bb6a67/image.png" alt="Engineer Data for Predictive Modeling with BigQuery ML Skill Badge" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/1c6c548b-23d9-4ad0-9b70-8661429cb1b2" title="Create ML Models with BigQuery ML Skill Badge"><img src="https://images.credly.com/size/80x80/images/073a27aa-c3d6-44b5-875f-906191666d70/image.png" alt="Create ML Models with BigQuery ML Skill Badge" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/5b6918af-8f80-49c2-b470-a5eff8dd8ff2" title="Prepare Data for ML APIs on Google Cloud Skill Badge"><img src="https://images.credly.com/size/80x80/images/68756311-9319-4eeb-a2b7-76defc8dd8a2/image.png" alt="Prepare Data for ML APIs on Google Cloud Skill Badge" width="80" height="80"></a>
